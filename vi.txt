@@ -1,0 +1,3 @@
+y -> copy selected
+u -> undo
+dd -> delete line
